@@ -1,0 +1,133 @@
+.cities_title {
+  position: absolute;
+  width: 138px;
+  height: 72px;
+  left: 687px;
+  top: 1025px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #110041;
+}
+
+.delhi_image {
+  position: absolute;
+  width: 293px;
+  height: 273px;
+  left: 278px;
+  top: 1116px;
+
+  background: url("https://res.cloudinary.com/dvm3hga6j/image/upload/v1679582817/Rectangle_7_1xthunder_bo5got.png");
+  border-radius: 10px 10px 0px 0px;
+}
+
+.thunder {
+  position: absolute;
+  width: 103px;
+  height: 36px;
+  left: 311px;
+  top: 1336px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.delhi_temp {
+  position: absolute;
+  width: 80px;
+  height: 96px;
+  left: 311px;
+  top: 1402px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 96px;
+  /* identical to box height */
+
+  padding: 10px;
+  margin: 10px;
+
+  color: #000000;
+}
+
+.delhi_degree {
+  position: absolute;
+  width: 16px;
+  height: 36px;
+  left: 388px;
+  top: 1401px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+  padding: 10px;
+  margin: 10px;
+
+  color: #000000;
+}
+
+.delhi_name {
+  position: absolute;
+  width: 62px;
+  height: 36px;
+  left: 474px;
+  top: 1422px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+  padding: 10px;
+  margin: 10px;
+
+  color: #000000;
+}
+
+.delhi_date {
+  position: absolute;
+  width: 64px;
+  height: 24px;
+  left: 474px;
+  top: 1453px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  padding: 10px;
+  margin: 10px;
+
+  color: #000000;
+}
+
+.delhi_container {
+  position: absolute;
+  width: 293px;
+  height: 394px;
+  left: 278px;
+  top: 1118px;
+
+  background: #ffffff;
+  box-shadow: 0px 16px 69px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+}
